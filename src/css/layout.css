@@ -48,7 +48,7 @@
 	float: right;
 }
 .grey{
-	color:grey;
+	color:rgb(48, 48, 48);
 }
 .noselect {
 	-webkit-touch-callout: none; /* iOS Safari */
