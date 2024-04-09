@@ -696,7 +696,7 @@ canvas{
 }
 #canvas_back{
 	position: absolute;
-	background-color:#ffffff;
+	background-color:#bfbfbf;
 	outline: none;
 }
 #canvas_grid{
