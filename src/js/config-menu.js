@@ -615,20 +615,8 @@ const menuDefinition = [
 				name: 'External',
 				children: [
 					{
-						name: 'TINYPNG - Compress PNG and JPEG',
-						href: 'https://tinypng.com'
-					},
-					{
-						name: 'REMOVE.BG - Remove Image Background',
-						href: 'https://www.remove.bg'
-					},
-					{
-						name: 'PNGTOSVG - Convert Image to SVG',
-						href: 'https://www.pngtosvg.com'
-					},
-					{
-						name: 'SQUOOSH - Compress and Compare Images',
-						href: 'https://squoosh.app'
+						name: 'Mann-E | AI Image generator',
+						href: 'https://mann-e.com'
 					}
 				]
 			},
