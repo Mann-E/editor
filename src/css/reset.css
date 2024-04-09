@@ -12,10 +12,10 @@
 	--block-background-color: #464d4f;
 	--header-background-color: #373d3f;
 	--button-background-color: #2f3739;
-	--button-background-color-hover: #75df72;
+	--button-background-color-hover: #9b00d8;
 	--button-background-color-active: #4d5153;
 	--button-shadow-color: rgba(0, 0, 0, 0.3);
-	--button-text-color-active: #adecab;
+	--button-text-color-active: #fc34ff;
 	--button-border-radius: .4rem;
 	--button-toggle-background-color: #575f62;
 	--button-toggle-background-color-hover: #575f62;
@@ -29,9 +29,9 @@
 	--menu-background-color: #ff8839;
 	--menu-icons-filter: invert(1);
 	--menu-icons-filter-active: none;
-	--menu-text-color: #cccccc;
+	--menu-text-color: #ffffff;
 	--number-input-arrow-width: 2rem;
-	--background-color-active: #adecab;
+	--background-color-active: #ffa658;
 	--background-color-hover: #575f62;
 	--text-color-active: #215b2a;
 	--border-color: #727677;
