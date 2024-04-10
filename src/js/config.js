@@ -73,7 +73,8 @@ config.FONTS = [
 	"Special Elite",
 	"Tangerine",
 	"Titillium Web",
-	"Ubuntu"
+	"Ubuntu", 
+	"Vazirmatn"
 ];
 //no-translate END
 
