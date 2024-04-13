@@ -1,6 +1,6 @@
 {
-	"name": "miniPaint",
-	"short_name": "miniPaint",
+	"name": "Mann-E Paint",
+	"short_name": "Mann-E Paint",
 	"start_url": "/",
 	"display": "standalone",
 	"orientation": "landscape",
