@@ -5,7 +5,7 @@
 	"display": "standalone",
 	"orientation": "landscape",
 	"background_color": "#666d6f",
-	"description": "miniPaint is free online image editor using HTML5.",
+	"description": "Part of Mann-E AI.",
 	"icons": [
 		{
 			"src": "images/manifest/48x48.png",
