@@ -617,6 +617,10 @@ const menuDefinition = [
 					{
 						name: 'Mann-E | AI Image generator',
 						href: 'https://mann-e.com'
+					},
+					{
+						name: "Vecentor | SVG Generation platform",
+						href: 'https://vecencor.com'
 					}
 				]
 			},
